@@ -1,0 +1,27 @@
+body {
+    
+    margin: 0;
+    
+}
+
+table {
+    width: 500px;
+    height: 40px;
+}
+
+.Productos {
+    margin-left: 4px;
+    margin-top: 4px;
+    width: 150px;
+}
+
+/*input {
+    border: solid red;
+}*/
+
+input[type=text]{
+    border: solid blue;
+    
+    height: 2em;;
+}
+
