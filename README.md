@@ -4,5 +4,5 @@ Practica escolar que busca enseñar javaEE haciendo una conexión a MySql
 
 ## Autores
 
-Victor Rodriguez Marquez
+Victor Rodriguez Marquez  
 Mauricio Augusto Sousa Rojas
